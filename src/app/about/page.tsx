@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "About CA Nidhi Agrawal | Agarwal Classes",
+  title: "About CA Nidhi Agrawal | Agrawal Classes",
   description:
     "Meet CA Nidhi Agrawal — Chartered Accountant and Commerce educator with 10+ years of experience teaching Class 11, 12 & B.Com students across India.",
 };
@@ -15,7 +15,7 @@ const milestones = [
   { year: "2020", event: "Launched live online classes, reaching students across Bihar and beyond" },
   { year: "2022", event: "Started YouTube channel (@canidhiagrawal3024) — free lectures for Commerce students nationwide" },
   { year: "2024", event: "Pan-India student base established; thousands of students taught across online and offline batches" },
-  { year: "2025", event: "Launched Agarwal Classes as a structured digital platform — recorded courses, live sessions & more" },
+  { year: "2025", event: "Launched Agrawal Classes as a structured digital platform — recorded courses, live sessions & more" },
 ];
 
 export default function AboutPage() {
@@ -69,7 +69,7 @@ export default function AboutPage() {
                 examinations.
               </p>
               <p>
-                Today, through Agarwal Classes, she reaches students across India — through live
+                Today, through Agrawal Classes, she reaches students across India — through live
                 online sessions, her YouTube channel, recorded video courses, and face-to-face
                 batches. Her mission is simple: make quality Commerce education available to every
                 student, regardless of where they live.

@@ -185,7 +185,7 @@ export default function HomePage() {
       <section className="bg-[#f0f7ff] py-16 px-4">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-10">
-            <h2 className="text-3xl font-bold text-[#1a3c5e]">Why Agarwal Classes?</h2>
+            <h2 className="text-3xl font-bold text-[#1a3c5e]">Why Agrawal Classes?</h2>
           </div>
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
             {[
@@ -207,7 +207,7 @@ export default function HomePage() {
               {
                 icon: "🏆",
                 title: "Proven Results",
-                desc: "Hundreds of students have scored 90%+ in board exams after joining Agarwal Classes.",
+                desc: "Hundreds of students have scored 90%+ in board exams after joining Agrawal Classes.",
               },
               {
                 icon: "🤝",

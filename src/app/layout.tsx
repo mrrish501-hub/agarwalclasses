@@ -10,20 +10,20 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Agarwal Classes by CA Nidhi Agrawal | Commerce Coaching",
+  title: "Agrawal Classes by CA Nidhi Agrawal | Commerce Coaching",
   description:
     "Expert Commerce coaching for Class 11, 12 & B.Com by CA Nidhi Agrawal. Live classes, recorded courses, and face-to-face batches. Join India's trusted Commerce educator.",
   keywords: [
     "Commerce coaching",
     "CA Nidhi Agrawal",
-    "Agarwal Classes",
+    "Agrawal Classes",
     "11th 12th Commerce",
     "B.Com coaching",
     "Accounts coaching",
     "online Commerce classes",
   ],
   openGraph: {
-    title: "Agarwal Classes by CA Nidhi Agrawal",
+    title: "Agrawal Classes by CA Nidhi Agrawal",
     description: "Expert Commerce coaching for Class 11, 12 & B.Com",
     type: "website",
   },

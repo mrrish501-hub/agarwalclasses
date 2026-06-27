@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {/* Brand */}
           <div>
-            <p className="text-xl font-bold">Agarwal Classes</p>
+            <p className="text-xl font-bold">Agrawal Classes</p>
             <p className="text-[#e8a020] text-sm font-semibold mb-3">by CA Nidhi Agrawal</p>
             <p className="text-gray-300 text-sm leading-relaxed">
               Expert Commerce coaching for Class 11, 12 & B.Com students. Empowering students
@@ -84,7 +84,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-white/10 mt-10 pt-6 text-center text-xs text-gray-400">
-          © {new Date().getFullYear()} Agarwal Classes by CA Nidhi Agrawal. All rights reserved.
+          © {new Date().getFullYear()} Agrawal Classes by CA Nidhi Agrawal. All rights reserved.
         </div>
       </div>
     </footer>

@@ -20,7 +20,7 @@ export default function Navbar() {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <Link href="/" className="flex flex-col leading-tight">
-            <span className="text-lg font-bold text-[#1a3c5e]">Agarwal Classes</span>
+            <span className="text-lg font-bold text-[#1a3c5e]">Agrawal Classes</span>
             <span className="text-xs text-[#e8a020] font-semibold tracking-wide">
               by CA Nidhi Agrawal
             </span>

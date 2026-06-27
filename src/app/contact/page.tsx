@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Contact Us | Agarwal Classes by CA Nidhi Agrawal",
+  title: "Contact Us | Agrawal Classes by CA Nidhi Agrawal",
   description:
-    "Get in touch with Agarwal Classes for course enquiries, admissions, and more. WhatsApp, email, or visit us at Gopalganj, Bihar.",
+    "Get in touch with Agrawal Classes for course enquiries, admissions, and more. WhatsApp, email, or visit us at Gopalganj, Bihar.",
 };
 
 export default function ContactPage() {

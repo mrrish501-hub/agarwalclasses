@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Free Resources | Agarwal Classes by CA Nidhi Agrawal",
+  title: "Free Resources | Agrawal Classes by CA Nidhi Agrawal",
   description:
     "Free study materials, sample papers, and YouTube lectures for Class 11, 12 & B.Com Commerce students.",
 };

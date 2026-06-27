@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Courses & Batches | Agarwal Classes by CA Nidhi Agrawal",
+  title: "Courses & Batches | Agrawal Classes by CA Nidhi Agrawal",
   description:
     "Explore Commerce courses for Class 11, 12 & B.Com. Live online, face-to-face, and recorded batch options available.",
 };
