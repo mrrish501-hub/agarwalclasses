@@ -8,12 +8,14 @@ export const metadata: Metadata = {
 };
 
 const milestones = [
-  { year: "2013", event: "Qualified as Chartered Accountant (CA)" },
-  { year: "2014", event: "Started teaching Commerce in Gopalganj, Bihar" },
-  { year: "2018", event: "Launched online classes reaching students across India" },
-  { year: "2020", event: "Started live sessions on YouTube" },
-  { year: "2023", event: "5,000+ students taught across online and offline batches" },
-  { year: "2025", event: "Launched structured recorded course platform" },
+  { year: "2014", event: "Became an Associate Chartered Accountant (ACA) — ICAI Membership No. 426028" },
+  { year: "2014", event: "Started teaching Commerce to Class 11 & 12 students in Gopalganj, Bihar" },
+  { year: "2017", event: "Expanded batches to B.Com students; growing reputation across Gopalganj district" },
+  { year: "2019", event: "Elevated to Fellow Chartered Accountant (FCA) by ICAI — a mark of outstanding professional standing" },
+  { year: "2020", event: "Launched live online classes, reaching students across Bihar and beyond" },
+  { year: "2022", event: "Started YouTube channel (@canidhiagrawal3024) — free lectures for Commerce students nationwide" },
+  { year: "2024", event: "Pan-India student base established; thousands of students taught across online and offline batches" },
+  { year: "2025", event: "Launched Agarwal Classes as a structured digital platform — recorded courses, live sessions & more" },
 ];
 
 export default function AboutPage() {
@@ -39,7 +41,7 @@ export default function AboutPage() {
             <h2 className="text-xl font-bold text-[#1a3c5e]">CA Nidhi Agrawal</h2>
             <p className="text-[#e8a020] font-semibold text-sm mt-1">Chartered Accountant</p>
             <div className="mt-4 flex flex-wrap justify-center gap-2">
-              {["ICAI Member", "10+ Years Teaching", "5,000+ Students"].map((tag) => (
+              {["FCA — ICAI #426028", "Since 2014", "Pan-India Reach"].map((tag) => (
                 <span
                   key={tag}
                   className="text-xs px-3 py-1 bg-[#1a3c5e] text-white rounded-full"

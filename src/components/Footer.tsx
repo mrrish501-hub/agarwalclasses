@@ -38,25 +38,45 @@ export default function Footer() {
           <div>
             <h3 className="font-semibold text-[#e8a020] mb-4">Connect With Us</h3>
             <ul className="space-y-2 text-sm text-gray-300">
-              <li>📍 Gopalganj, Bihar, India</li>
+              <li>📍 Main Road, Gopalganj, Bihar — 841428</li>
               <li>
                 <a
-                  href="https://wa.me/919999999999"
+                  href="https://wa.me/917250185258"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-white transition-colors"
                 >
-                  💬 WhatsApp Us
+                  💬 WhatsApp: +91 72501 85258
                 </a>
               </li>
               <li>
                 <a
-                  href="https://youtube.com"
+                  href="https://youtube.com/@canidhiagrawal3024"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-white transition-colors"
                 >
-                  ▶ YouTube Channel
+                  ▶ YouTube — @canidhiagrawal3024
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://www.instagram.com/agrawalcanidhi"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover:text-white transition-colors"
+                >
+                  📸 Instagram — @agrawalcanidhi
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://www.facebook.com/share/1KFrvdfXhh/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover:text-white transition-colors"
+                >
+                  👍 Facebook Page
                 </a>
               </li>
             </ul>

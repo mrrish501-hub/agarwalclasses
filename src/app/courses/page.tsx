@@ -151,7 +151,7 @@ export default function CoursesPage() {
                   </div>
                   <div className="flex flex-col sm:flex-row gap-3">
                     <a
-                      href="https://wa.me/919999999999"
+                      href="https://wa.me/917250185258"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex-1 text-center px-5 py-2.5 bg-[#e8a020] text-white text-sm font-semibold rounded-full hover:bg-[#d4911a] transition-colors"

@@ -32,7 +32,7 @@ export default function ContactPage() {
                   desc: "Fastest response. Click to chat directly.",
                   action: (
                     <a
-                      href="https://wa.me/919999999999"
+                      href="https://wa.me/917250185258"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="inline-block mt-2 px-5 py-2 bg-green-500 text-white text-sm font-semibold rounded-full hover:bg-green-600 transition-colors"
@@ -44,15 +44,15 @@ export default function ContactPage() {
                 {
                   icon: "📍",
                   title: "Centre Address",
-                  desc: "Gopalganj, Bihar — 841428, India",
+                  desc: "Main Road, Gopalganj, Bihar — 841428",
                 },
                 {
                   icon: "▶",
                   title: "YouTube Channel",
-                  desc: "Watch free lectures and live sessions.",
+                  desc: "Watch free lectures and live sessions — @canidhiagrawal3024",
                   action: (
                     <a
-                      href="https://youtube.com"
+                      href="https://youtube.com/@canidhiagrawal3024"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="inline-block mt-2 px-5 py-2 bg-red-600 text-white text-sm font-semibold rounded-full hover:bg-red-700 transition-colors"

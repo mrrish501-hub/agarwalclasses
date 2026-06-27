@@ -77,7 +77,7 @@ export default function HomePage() {
                 Explore Courses
               </Link>
               <a
-                href="https://wa.me/919999999999"
+                href="https://wa.me/917250185258"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-7 py-3 border border-white/30 text-white font-semibold rounded-full hover:bg-white/10 transition-colors text-sm"
@@ -278,7 +278,7 @@ export default function HomePage() {
               View Courses
             </Link>
             <a
-              href="https://wa.me/919999999999"
+              href="https://wa.me/917250185258"
               target="_blank"
               rel="noopener noreferrer"
               className="px-8 py-3 bg-white text-[#1a3c5e] font-semibold rounded-full hover:bg-gray-100 transition-colors text-sm"

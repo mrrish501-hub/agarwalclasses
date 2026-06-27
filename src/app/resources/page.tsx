@@ -72,7 +72,7 @@ export default function ResourcesPage() {
           <div className="flex items-center justify-between mb-8 flex-wrap gap-4">
             <h2 className="text-2xl font-bold text-[#1a3c5e]">Latest YouTube Lectures</h2>
             <a
-              href="https://youtube.com"
+              href="https://youtube.com/@canidhiagrawal3024"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 px-5 py-2 bg-red-600 text-white text-sm font-semibold rounded-full hover:bg-red-700 transition-colors"
